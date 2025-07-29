@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vijaykollu-7568.github.io/reactapp205/",
+  "homepage": "https://github.com/VIJAYkollu-7568/reactapp205-gitactions",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
